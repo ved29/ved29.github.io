@@ -4,3 +4,6 @@ plugins:
 
 title: [Vednarayan Iyer]
 description: [Personal Webpage]
+
+github:
+  is_project_page: false
